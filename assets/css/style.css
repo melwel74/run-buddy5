@@ -67,3 +67,27 @@ header nav ul li a {
   footer a {
       color: #024e76;
   }
+
+  section {
+      padding: 60px;
+      /* background-image: url("../images/hero-bg.jpeg"); */
+  }
+
+  .hero {
+    background-image: url("../images/hero-bg.jpeg");
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+  }
+
+  .hero-form {
+  background-color: #fce138;
+  border: 3px solid #024e76;
+  padding: 20px;
+  width: 500px;
+  color: #024e76;
+  position: absolute;
+  bottom: 120px;
+  right: 140px;
+}
