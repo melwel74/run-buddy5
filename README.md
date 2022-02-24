@@ -2,4 +2,7 @@
 
 
 # Technology Used
+- HTML
+- CSS
+- GIT
 
