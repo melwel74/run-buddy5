@@ -13,3 +13,8 @@ https://lernantino.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by [your name]
 
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by [Melvin]
