@@ -1,8 +1,15 @@
-# Description
+# Run Buddy
 
+## Purpose
+A website that offers fitness training services.
 
-# Technology Used
-- HTML
-- CSS
-- GIT
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by [your name]
 
